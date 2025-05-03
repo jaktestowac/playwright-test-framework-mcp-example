@@ -1,0 +1,23 @@
+{
+  "name": "playwright-test-framework-example",
+  "version": "1.0.0",
+  "description": "A simple example of Playwright + TypeScript test framework with basic Page Object Model. Based on GAD - our application for practice test automation",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:codegen": "npx playwright codegen ",
+    "test:ui": "npx playwright test --ui",
+    "test:report": "npx playwright show-report",
+    "test:u": "npx playwright test -u"
+  },
+  "keywords": [],
+  "author": "jaktestowac.pl",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.51.1",
+    "@types/node": "^22.14.0",
+    "@faker-js/faker": "^9.5.0",
+    "prettier": "^3.5.1"
+  }
+}

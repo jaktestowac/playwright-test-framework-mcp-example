@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "ms-playwright.playwright",
+    "esbenp.prettier-vscode",
+    "jaktestowac-pl.playwright-helpers",
+    "jaktestowac-pl.vsc-playwright-snippets",
+    "jaktestowac-pl.vsc-playwright-snippets-ui",
+    "jaktestowac-pl.gad-helpers"
+  ]
+}
