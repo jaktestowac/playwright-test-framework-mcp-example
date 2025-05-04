@@ -66,8 +66,8 @@ Configuration in file `playwright.config.ts` contain all global settings for pro
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/jaktestowac/playwright-test-framework-example.git
-   cd playwright-test-framework-example
+   git clone https://github.com/jaktestowac/playwright-test-framework-mcp-example.git
+   cd playwright-test-framework-mcp-example
    ```
 
 2. Install dependencies:
