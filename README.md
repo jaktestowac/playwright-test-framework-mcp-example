@@ -10,6 +10,32 @@ by [jaktestowac.pl](https://jaktestowac.pl/contribution-playwright/) team.
 
 Repository contains tests for the following topics:
 
+- **UI Tests with Page Object Model:**
+  Automated browser tests for user registration, login, and viewing articles, using Playwright and the Page Object Model pattern for maintainability.
+
+- **API Testing:**
+  End-to-end API tests for health, about, users, including user registration, login and viewing articles.
+
+- **Fixtures and Helpers:**
+  Custom Playwright fixtures for page objects to promote code reuse and clarity.
+
+- **Test Reporting and Configuration:**
+  Example Playwright configuration for multiple reporters (HTML, JUnit, JSON), test directory structure, and device emulation.
+
+## Tests and Covered Areas
+
+The repository includes the following test files and their coverage:
+
+- `tests/register.spec.ts`: UI test for user registration and login with unique credentials.
+- `tests/login.spec.ts`: UI test for logging in with valid credentials.
+- `tests/articles.spec.ts`: UI test for viewing articles as a guest user.
+- `tests/logged-articles.spec.ts`: UI test for viewing articles as a logged-in user.
+
+These tests cover:
+
+- User registration and authentication flows
+- Viewing articles (both as guest and logged-in user)
+
 ## Who we are?
 
 We are **Test Architects and Senior Lead Tech Quality Engineers**, who are passionate about testing.
