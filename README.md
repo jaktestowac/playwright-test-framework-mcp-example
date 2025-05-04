@@ -1,6 +1,6 @@
 # Playwright Test Framework Example for AI & Playwright MCP Course by jaktestowac.pl
 
-This repository provides an example of Playwright test framework that was designed for the AI and Playwright MCP (Model Context Protocol) course.
+This repository provides an empty Playwright test framework that was designed to test AI and Playwright MCP (Model Context Protocol) in course
 
 (Polish: _"[Playwright z AI – czyli jak usprawnić swoją pracę](https://jaktestowac.pl/course/playwright-z-ai/)"_ - _"Playwright with AI - how to improve your work"_)
 
